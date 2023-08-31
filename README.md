@@ -16,4 +16,5 @@
 3. Обновить страницу с ссылкой https://www.avito.ru/favorites
 
 **Ожидаемый результат**
+
 В избранных товарах появился товар, страница которого доступна по ссылке https://www.avito.ru/nikel/knigi_i_zhurnaly/domain-driven_design_distilled_vaughn_vernon_2639542363
